@@ -12,6 +12,9 @@ Made by Yoga Dimas
 # Reviewer's Note
 Congratulations on completing your assignment for Submission - Learn to Create Android Applications for Beginners. That way you have been declared PASS from this academy.
 
+# Certificate
+![pemula-1](https://user-images.githubusercontent.com/60217207/89026027-2634e080-d352-11ea-9000-4b8493d4610b.png)
+
 # Screenshot
 ![img1](https://user-images.githubusercontent.com/60217207/89024513-6f376580-d34f-11ea-8eda-9c9fc5c08d6f.jpg)
 ![img2](https://user-images.githubusercontent.com/60217207/89024523-72325600-d34f-11ea-8e4f-9a4004d4f788.jpg)
