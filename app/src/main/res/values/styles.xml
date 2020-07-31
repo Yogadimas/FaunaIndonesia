@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppThemeMain" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/coklattua1</item>
+        <item name="colorPrimaryDark">@color/coklattua2</item>
+        <item name="colorAccent">@color/coklatmuda</item>
+    </style>
+
+    <style name="AppThemenNoMain" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/coklattua1</item>
+        <item name="colorPrimaryDark">@color/coklatmuda</item>
+        <item name="colorAccent">@color/coklatmuda</item>
+    </style>
+
+    <style name="AppThemenNoMainSatu" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/coklatdetail</item>
+        <item name="colorPrimaryDark">@color/coklatdetail</item>
+        <item name="colorAccent">@color/coklatmuda</item>
+    </style>
+
+
+</resources>
